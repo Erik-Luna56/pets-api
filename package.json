@@ -1,0 +1,30 @@
+{
+  "name": "pets-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik-Luna56/pets-api.git"
+  },
+  "keywords": [
+    "tercera",
+    "generacion"
+  ],
+  "author": "Erik-luna56",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erik-Luna56/pets-api/issues"
+  },
+  "homepage": "https://github.com/Erik-Luna56/pets-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
